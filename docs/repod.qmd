@@ -61,3 +61,8 @@ renv::restore()
 print('hello world')
 ```
 
+
+```{r}
+print("this comes from my cloned repos")
+```
+
