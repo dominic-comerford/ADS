@@ -57,3 +57,7 @@ renv::init()
 renv::restore()
 ```
 
+```{r}
+print('hello world')
+```
+
